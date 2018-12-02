@@ -1,3 +1,6 @@
+
+References from :
+
 https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/
 http://nebomusic.net/perception/Matrix_Operations_Python_Numpy.pdf
 https://www.python-course.eu/matrix_arithmetic.php
